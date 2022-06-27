@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "154458456524",
+    "firebase_url": "https://travel-photographer-default-rtdb.firebaseio.com",
+    "project_id": "travel-photographer",
+    "storage_bucket": "travel-photographer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154458456524:android:95e02f1e6eee1efb0a9d69",
+        "android_client_info": {
+          "package_name": "com.example.travel_photographer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154458456524-e6t0klfvannocefouco63347lnro1fg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vp6W5NEaANwdqqia8ghnshK2GffqYz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154458456524-e6t0klfvannocefouco63347lnro1fg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
